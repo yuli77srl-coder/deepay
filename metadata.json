@@ -1,0 +1,6 @@
+{
+  "name": "Deepay AI Commerce OS",
+  "description": "Deepay — AI Commerce Operating System. Build, sell, manage and grow your enterprise business with advanced artificial intelligence, unified payment nodes, Smart ERP/CRM, and auto-generative marketing blog nodes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

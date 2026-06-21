@@ -1,0 +1,72 @@
+{
+  "projectID": "gen-lang-client-0014913552",
+  "appId": "1:914403362763:web:92e1dae04a35d434bd984e",
+  "apiKey": "AIzaSyD1SXA7phXPsxv1oWPVYq7aykZ6BgFmqco",
+  "authDomain": "gen-lang-client-0014913552.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-3e71e892-5778-449b-bc0b-b38b1c2c57f9",
+  "collections": {
+    "pages": {
+      "id": "string",
+      "slug": "string",
+      "category": "string",
+      "title": "object",
+      "metaDescription": "object",
+      "schemaType": "string",
+      "primaryKeyword": "string",
+      "topic": "string",
+      "content": "object",
+      "metrics": "array",
+      "faqs": "array"
+    },
+    "wiki": {
+      "slug": "string",
+      "term": "string",
+      "definition": "object",
+      "applications": "object",
+      "schema": "string",
+      "faqs": "array"
+    },
+    "prompts": {
+      "id": "string",
+      "title": "string",
+      "category": "string",
+      "systemPrompt": "string",
+      "description": "string"
+    },
+    "caseStudies": {
+      "slug": "string",
+      "industry": "string",
+      "title": "object",
+      "problem": "string",
+      "solution": "string",
+      "roi": "string",
+      "flowSteps": "array"
+    },
+    "resources": {
+      "id": "string",
+      "name": "string",
+      "fileType": "string",
+      "size": "string",
+      "downloads": "number"
+    },
+    "glossary": {
+      "term": "string",
+      "fullName": "string",
+      "definition": "object",
+      "techSpec": "string"
+    },
+    "cronLogs": {
+      "timestamp": "string",
+      "task": "string",
+      "status": "string",
+      "details": "string"
+    },
+    "searchMetrics": {
+      "date": "string",
+      "clicks": "number",
+      "impressions": "number",
+      "ctr": "number",
+      "avgPosition": "number"
+    }
+  }
+}
